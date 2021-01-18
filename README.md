@@ -4,18 +4,19 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-lohan&label=Profile%20views&color=f53f2b&style=plastic" alt="shubham-lohan" /> </p>
 
-- 👨‍💻 All of my projects are available at my [portfolio](https://shubham-lohan.github.io)
+<!-- - 👨‍💻 All of my projects are available at my [portfolio](https://shubham-lohan.github.io) -->
+- 👨‍💻 All of my projects are available at my <a href="https://shubham-lohan.github.io" target="_blank">portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/shubham_lohan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/telegram.svg" alt="telegram" height="30" width="40" /></a>
-<a target="_blank" rel="noreferrer" rel=" noreferrer" target="blank" href="mailto:shubhamlohan99@gmail.com" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/gmail.svg" alt="gmail" height="30" width="40" ></a>
-<a target="_blank" rel="noreferrer" href="https://linkedin.com/in/shubham-lohan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-<a target="_blank" rel="noreferrer" href="https://fb.com/lohanshubham" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" alt="facebook" height="30" width="40" /></a>
-<a target="_blank" rel="noreferrer" href="https://instagram.com/shubham_lohan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a target="_blank" rel="noreferrer" href="https://www.codechef.com/users/shubham_lohan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
-<a target="_blank" rel="noreferrer" href="https://www.hackerrank.com/shubham_lohan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
-<a target="_blank" rel="noreferrer" href="https://codeforces.com/profile/shubham_lohan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codeforces.svg" alt="codeforces" height="30" width="40" /></a>
+<a href="https://t.me/shubham_lohan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/telegram.svg" alt="telegram" height="30" width="40" /></a>
+<a target="_blank" rel="noreferrer" rel=" noreferrer" target="_blank" href="mailto:shubhamlohan99@gmail.com" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/gmail.svg" alt="gmail" height="30" width="40" ></a>
+<a target="_blank" rel="noreferrer" href="https://linkedin.com/in/shubham-lohan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+<a target="_blank" rel="noreferrer" href="https://fb.com/lohanshubham" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" alt="facebook" height="30" width="40" /></a>
+<a target="_blank" rel="noreferrer" href="https://instagram.com/shubham_lohan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a target="_blank" rel="noreferrer" href="https://www.codechef.com/users/shubham_lohan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
+<a target="_blank" rel="noreferrer" href="https://www.hackerrank.com/shubham_lohan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
+<a target="_blank" rel="noreferrer" href="https://codeforces.com/profile/shubham_lohan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codeforces.svg" alt="codeforces" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

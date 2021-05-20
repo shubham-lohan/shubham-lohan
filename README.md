@@ -11,8 +11,8 @@
 <a href="https://t.me/shubham_lohan" target="_blank"><img align="center" src="icons/telegram.svg" alt="telegram" height="30" width="40" /></a>
 <a target="_blank" rel="noopener noreferrer" rel=" noopener noreferrer" target="_blank" href="mailto:shubhamlohan99@gmail.com" ><img align="center" src="icons/gmail.svg" alt="gmail" height="30" width="40" ></a>
 <a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/in/shubham-lohan" target="_blank"><img align="center" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" alt="linkedin" height="30" width="40" /></a>
-<a target="_blank" rel="noopener noreferrer" href="https://fb.com/lohanshubham" target="_blank"><img align="center" src="https://icongr.am/devicon/facebook-original.svg?size=128&color=currentColor" alt="facebook" height="30" width="40" /></a>
-<a target="_blank" rel="noopener noreferrer" href="https://instagram.com/shubham_lohan" target="_blank"><img align="center" src="icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<!-- <a target="_blank" rel="noopener noreferrer" href="https://fb.com/lohanshubham" target="_blank"><img align="center" src="https://icongr.am/devicon/facebook-original.svg?size=128&color=currentColor" alt="facebook" height="30" width="40" /></a> -->
+<!-- <a target="_blank" rel="noopener noreferrer" href="https://instagram.com/shubham_lohan" target="_blank"><img align="center" src="icons/instagram.svg" alt="instagram" height="30" width="40" /></a> -->
 <a target="_blank" rel="noopener noreferrer" href="https://www.codechef.com/users/shubham_lohan" target="_blank"><img align="center" src="icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.hackerrank.com/shubham_lohan" target="_blank"><img align="center" src="icons/hackerank.svg" alt="hackerrank" height="30" width="40" /></a>
 <a target="_blank" rel="noopener noreferrer" href="https://codeforces.com/profile/shubham_lohan" target="_blank"><img align="center" src="icons/codeforces.svg" alt="codeforces" height="30" width="40" /></a>

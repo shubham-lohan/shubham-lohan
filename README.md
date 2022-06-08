@@ -24,4 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-lohan&show_icons=true&locale=en&layout=flat&theme=highcontrast&title_color=42f584&hide_border=true alt="shubham-lohan" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-lohan&show_icons=true&theme=highcontrast&title_color=42f584&icon_color=f53f2b&hide_border=true&count_private=true&line_height=40" alt="shubham-lohan" /></p>
 
+ [![shubham_lohan's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=shubham_lohan&theme=Dark)](https://leetcode.com/shubham_lohan/)
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shubham-lohan&repo=Basic-Linux-Shell)](https://github.com/shubham-lohan/Basic-Linux-Shell) -->
